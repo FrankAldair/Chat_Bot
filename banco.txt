@@ -1,0 +1,17 @@
+Banco
+Un banco es una organización de intermediación financiera, destinada a ofrecer a sus clientes múltiples facilidades, entre ellas: manejo de dinero, financiamiento, hipotecas, tarjetas de crédito, tarjetas de débito, entre otros productos útiles.
+
+Préstamo
+Un préstamo es un instrumento que proporcionan las entidades de intermediación financiera, a través del cual entregan una cantidad de dinero a uno o más clientes, para que estos devuelvan la cantidad en un tiempo determinado + una cantidad de intereses.
+
+Débito
+Un débito es un movimiento financiero que afecta a una cuenta para alterar su saldo. Para cuentas de ahorro y/o corriente representa una disminución en el saldo, pero para un préstamo o tarjeta de crédito representa un aumento en el saldo.
+
+Credito
+Un crédito es un movimiento financiero que afecta a una cuenta para alterar su saldo. Para cuentas de ahorro y/o corriente representa un aumento en el saldo, pero para un préstamo o tarjeta de crédito representa una disminución en el saldo.
+
+Tarjeta debito
+Una tarjeta de débito permite a su titular realizar pagos y compras utilizando plástico en lugar de pagar en efectivo, el saldo de esta tarjeta está vinculado a una cuenta del titular de la tarjeta.
+
+Tarjeta de credito
+Una tarjeta de crédito permite a su titular realizar pagos y compras utilizando un plástico en lugar de pagar en efectivo, el saldo de esta tarjeta está vinculado a una línea de crédito del titular de la tarjeta.
